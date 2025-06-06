@@ -13,10 +13,10 @@
         </sparkle:deltas>
     </item>
     <item>
-        <title>Versión 1.15.46</title>
-        <minAppVersion>1.15.46</minAppVersion>
+        <title>Versión 1.15.47</title>
+        <minAppVersion>1.15.47</minAppVersion>
         <description>Novedad: Actualiza a la última versión, que tiene nuevas funcionalidades y correcciones de algunos errores.</description>
-        <enclosure url="https://apps.apple.com/cl/app/imperial-ferretero/id1586701925" sparkle:version="1.15.46" sparkle:os="iOS" />
+        <enclosure url="https://apps.apple.com/cl/app/imperial-ferretero/id1586701925" sparkle:version="1.15.47" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>15.6.0</sparkle:minimumSystemVersion>
     </item>
     </channel>
