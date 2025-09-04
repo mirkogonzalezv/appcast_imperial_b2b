@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <item>
-        <title>Versión 1.16.51</title>
-        <minAppVersion>1.16.51</minAppVersion>
+        <title>Versión 1.16.52</title>
+        <minAppVersion>1.16.52</minAppVersion>
         <description>Novedad: Actualiza a la última versión, que tiene nuevas funcionalidades y correcciones de algunos errores.</description>
-        <enclosure url="https://play.google.com/store/apps/details?id=cl.imperial.b2b.app" sparkle:version="1.16.51" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=cl.imperial.b2b.app" sparkle:version="1.16.52" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="https://play.google.com/store/apps/details?id=cl.imperial.b2b.app"
-            sparkle:version="1.16.51"
+            sparkle:version="1.16.52"
             sparkle:deltaFrom="1.13.30"/>
         </sparkle:deltas>
     </item>
     <item>
-        <title>Versión 1.16.51</title>
-        <minAppVersion>1.16.51</minAppVersion>
+        <title>Versión 1.16.52</title>
+        <minAppVersion>1.16.52</minAppVersion>
         <description>Novedad: Actualiza a la última versión, que tiene nuevas funcionalidades y correcciones de algunos errores.</description>
-        <enclosure url="https://apps.apple.com/cl/app/imperial-ferretero/id1686701925" sparkle:version="1.16.51" sparkle:os="iOS" />
+        <enclosure url="https://apps.apple.com/cl/app/imperial-ferretero/id1686701925" sparkle:version="1.16.52" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>16.6.0</sparkle:minimumSystemVersion>
     </item>
     </channel>
