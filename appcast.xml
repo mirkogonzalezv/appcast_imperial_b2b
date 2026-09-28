@@ -15,10 +15,10 @@
     </item>
     <!-- iOS -->
     <item>
-        <title>Versión 1.16.64</title>
-        <minAppVersion>1.16.64</minAppVersion>
+        <title>Versión 1.16.65</title>
+        <minAppVersion>1.16.65</minAppVersion>
         <description>Novedad: Actualiza a la última versión, que tiene nuevas funcionalidades y correcciones de algunos errores.</description>
-        <enclosure url="https://apps.apple.com/cl/app/imperial-ferretero/id1686701925" sparkle:version="1.16.64" sparkle:os="iOS" />
+        <enclosure url="https://apps.apple.com/cl/app/imperial-ferretero/id1686701925" sparkle:version="1.16.65" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>16.6.0</sparkle:minimumSystemVersion>
     </item>
     </channel>
